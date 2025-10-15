@@ -19,4 +19,4 @@ This is a **simple calculator** built using **HTML, CSS, and JavaScript**. It su
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mt-abdullah/HTML-CSS-JS.git
+   git clone https://github.com/amanullah-ansar/HTML-CSS-JS.git

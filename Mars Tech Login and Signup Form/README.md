@@ -28,4 +28,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mt-abdullah/mars-tech-login-signup-form.git
+   git clone https://github.com/amanullah-ansar/mars-tech-login-signup-form.git
